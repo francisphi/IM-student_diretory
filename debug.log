@@ -1,0 +1,77 @@
+Raw input: 
+Decoded data: 
+Raw input: 
+Decoded data: 
+Raw input: 
+Decoded data: 
+Raw input: 
+Decoded data: 
+Raw input: 
+Decoded data: 
+Raw input: 
+Decoded data: 
+Raw input: 
+Decoded data: 
+Raw input: {"std_id":"9","password":"as"}
+Decoded data: Array
+(
+    [std_id] => 9
+    [password] => as
+)
+
+Raw input: {"std_id":"9","password":"as"}
+Decoded data: Array
+(
+    [std_id] => 9
+    [password] => as
+)
+
+Raw input: {"std_id":"9","password":"as"}
+Decoded data: Array
+(
+    [std_id] => 9
+    [password] => as
+)
+
+Raw input: {"std_id":"9","password":"as"}
+Decoded data: Array
+(
+    [std_id] => 9
+    [password] => as
+)
+
+Raw input: {"std_id":"9","password":"as"}
+Decoded data: Array
+(
+    [std_id] => 9
+    [password] => as
+)
+
+Raw input: {"std_id":"S","password":"SA"}
+Decoded data: Array
+(
+    [std_id] => S
+    [password] => SA
+)
+
+Raw input: {"std_id":"S","password":"SA"}
+Decoded data: Array
+(
+    [std_id] => S
+    [password] => SA
+)
+
+Raw input: {"std_id":"9","password":"SA"}
+Decoded data: Array
+(
+    [std_id] => 9
+    [password] => SA
+)
+
+Raw input: {"std_id":"9","password":"as"}
+Decoded data: Array
+(
+    [std_id] => 9
+    [password] => as
+)
+
